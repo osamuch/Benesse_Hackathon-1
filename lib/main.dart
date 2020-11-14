@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//テスト
+//テストする
 class Person{
   String firstName;
   String lastName;
